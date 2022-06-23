@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://github.com/coc0dev/3-column-preview)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3columnpreviewcard-html-css-flexbox-03upm_ay9Z)
 - Live Site URL: [Netlify](https://clinquant-raindrop-322b6c.netlify.app/)
 
 ## My process
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/coc0dev)
+- Frontend Mentor - [@coc0dev](https://www.frontendmentor.io/profile/coc0dev)
