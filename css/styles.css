@@ -10,6 +10,10 @@ body {
   background-color: hsl(0, 0%, 95%);
   color: hsl(0, 0%, 95%);
   font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
@@ -38,6 +42,7 @@ img {
   margin: 200px 100px 10px 100px;
   justify-content: center;
   align-items: center;
+  width: 800px;
 }
 
 .sedan {
@@ -113,6 +118,7 @@ button:hover {
   .box {
     flex-direction: column;
     margin: 50px 75px 10px 75px;
+    width: 350px;
   }
   p {
     margin-bottom: 35px;
